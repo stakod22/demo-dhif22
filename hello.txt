@@ -1,1 +1,4 @@
-A wonderfull hello world
+hello friendly world
+hello europe
+hello Austria
+
